@@ -24,65 +24,59 @@ Perfect beginner project for learning Python fundamentals.
 ## 📂 Project Structure
 
 console-chatbot-python/
-│
+
 ├── chatbot.py # Main chatbot program
+
 ├── README.md # Project documentation
+
 ├── requirements.txt # Dependencies (if needed)
-└── images/
+
 └── output.png # Screenshot of chatbot output
 
-yaml
-Copy code
 
 ---
 
-## 💻 How to Run the Project
+💻 How to Run the Project?
 
-### **1️⃣ Clone this repository**
-```bash
+1️⃣ Clone this repository
 git clone https://github.com/debayanmanna136-netizen/console-chatbot-python.git
+
 2️⃣ Go inside the project folder
-bash
-Copy code
 cd console-chatbot-python
+
 3️⃣ Run the chatbot
-bash
-Copy code
 python chatbot.py
-📸 Sample Output
-(Upload your screenshot inside the images/ folder and rename to output.png)
 
-arduino
-Copy code
-Chatbot running screenshot:
+🖼️ Sample Output
 
-📌 Technologies Used
-Python 3
+(Upload your chatbot screenshot inside the images/ folder and name it output.png)
 
-datetime for date/time
 
-random for jokes & replies
+📌 Technologies Used:
 
-re for math expression handling
+1.Python 3
 
-time for typing animation
+2.datetime for date/time
 
-🚀 Future Improvements
-Add chatbot memory
+3.random for jokes & replies
 
-Add GUI using Tkinter
+4.re for math expression handling
 
-Add voice input/output
+5.time for typing animation
 
-Add API-based smart responses
+🚀 Future Improvements:
 
-Add personality modes
+1.Add chatbot memory
 
-👤 Author
-Debayan Manna
-A beginner exploring Python and building real projects to learn coding the practical way.
+2.Add GUI using Tkinter
 
-Add OpenAI / API-based smart replies
+3.Add voice input/output
+
+4.Add API-based smart responses
+
+5.Add personality modes
+
+6.Add OpenAI / API-based smart replies
 
 👤 Author
 Debayan Manna
