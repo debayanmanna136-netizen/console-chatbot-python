@@ -49,8 +49,7 @@ python chatbot.py
 
 🖼️ Sample Output
 
-(Upload your chatbot screenshot inside the images/ folder and name it output.png)
-
+(https://github.com/debayanmanna136-netizen/console-chatbot-python/blob/main/output.png)
 
 📌 Technologies Used:
 
