@@ -1,0 +1,11 @@
+## 📦 Dependencies
+
+This project uses the following Python modules:
+
+- **datetime** – for date & time
+- **random** – for jokes & random replies
+- **re** – for filtering math expressions
+- **time** – for typing animation
+
+📌 No external libraries are required.  
+Everything used here comes pre-installed with Python.
