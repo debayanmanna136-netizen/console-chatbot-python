@@ -25,13 +25,13 @@ Perfect beginner project for learning Python fundamentals.
 
 console-chatbot-python/
 
-├── chatbot.py # Main chatbot program
-
 ├── README.md # Project documentation
 
-├── requirements.txt # Dependencies (if needed)
+├── chatbot.py # Main chatbot program
 
-└── output.png # Screenshot of chatbot output
+├── output.png # Screenshot of chatbot output
+
+└──requirements.txt # Dependencies (if needed)
 
 
 ---
